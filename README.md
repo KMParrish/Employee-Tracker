@@ -25,10 +25,10 @@ https://app.castify.com/view/dd81db7e-aa6a-4c7e-9b0e-46f7538aa695
 
 
 ## Screenshots
-![](img\Employee tracker 1.png)
-![](img\Employee tracker 2.png)
-![](img\Employee tracker 4.png)
-![](img\employee tracker 5.png)
+![](img/Employee%20tracker%201.png)
+![](img/Employee%20tracker%202.png)
+![](img/Employee%20tracker%204.png)
+![](img/employee%20tracker%205.png)
 
 ## Technologies Use
 <p><a href="https://www.npmjs.com/">NPM</a></p>
