@@ -20,17 +20,21 @@ A command-line application that manages an employee database (department, role, 
 ## Usage
 The user will be able to view every aspect of an employee. Everything including ID, first and last name, title, department, salary, and manager will all be visible to the user. Additionally, if the user wishes to manipulate the information on the database, they will be prompted with questions which will allow for a quick new entry.
 
+## Walkthrough Video
+https://app.castify.com/view/dd81db7e-aa6a-4c7e-9b0e-46f7538aa695
+
 
 ## Screenshots
-
-
-
+img\Employee tracker 1.png
+img\Employee tracker 2.png
+img\Employee tracker 4.png
+img\employee tracker 5.png
 
 ## Technologies Use
 <p><a href="https://www.npmjs.com/">NPM</a></p>
 <p><a href="https://nodejs.org/">Node.js</a></p>
 <p><a href="https://www.npmjs.com/package/inquirer">Inquirer.js</a></p>
-<p><a href="https://dev.mysql.com"></a>MySQL</p>
+<p><a href="https://dev.mysql.com"></a>MySQL & MySQL 2</p>
 
 
 ## Contributor:
